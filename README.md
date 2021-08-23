@@ -1,16 +1,4 @@
-# create-new-revealjs-template
-Reveal.js template presentation as a GitHub repo Template
-* Includes Reveal.js as a Git submodule so that its commit history is not confused with this presentation's history
-* Makes future updating of Reveal.js version very easy
-* Reduces the size of the presentation repositories significantly
-
-## Usage
-1. Click 'Use This Template'
-1. Name your presentation and it will be created in your own GitHub account/org
-1. Customise as necessary
-1. Push completed slides back to GitHub
-1. Configure your GitHub pages settings to serve the slides from _youraccount_.github.io (or custom domain even)
-1. **Amaze your friends** by being able to share the URL of your live, interactive slides with your audience immediately. No more emailing PowerPoint attachments for YOU!
+# create-revealjs-presentation
 
 ## Credits
 * [Hakim El-Hattab](https://twitter.com/hakimel) for the simple awesome [Reveal.js](https://github.com/hakimel/reveal.js)
